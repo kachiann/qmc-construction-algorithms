@@ -1,3 +1,3 @@
 # qmc-construction-algorithms
 
-Here you'll find Python code for building QMC point sets from scratch. For rank-1 lattice rules in particular, we provide component-by-component type algorithms for building good generating vectors.
+Here you'll build QMC point sets from scratch on Python. For rank-1 lattice rules in particular, I will walk you through component-by-component type algorithms for building good generating vectors.
